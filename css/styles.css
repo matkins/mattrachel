@@ -60,6 +60,9 @@ ol {
     width:100%;
     max-width:380px;
   }
+  ol{
+    padding-left:0px;
+  }
   .footer {
     width:calc(100% + 40px);
     margin:0px -20px;
